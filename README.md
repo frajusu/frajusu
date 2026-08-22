@@ -14,7 +14,7 @@
 
 ### `> whoami`
 
-Dev autodidacta y artista de Uruguay, estudiando en **UTEC**, armando camino hacia el desarrollo de videojuegos y arte digital sin título formal en eso, a puro laburo, curiosidad y jams. Fan de la cultura **demoscene**, el **pixel art** y ricear Linux hasta que quede perfecto.
+Self-taught dev and artist from Uruguay, studying at **UTEC**, building my way into game development and digital art without a formal degree in either, just work, curiosity, and jams. Into **demoscene** culture, **pixel art**, and ricing Linux until it's just right.
 
 <br>
 
@@ -35,34 +35,34 @@ Dev autodidacta y artista de Uruguay, estudiando en **UTEC**, armando camino hac
 
 <br>
 
-### `> áreas de trabajo`
+### `> areas of work`
 
 <table>
 <tr>
 <td width="50%">
 
-**🎮 Desarrollo en Godot**
-Juegos y prototipos con estética pixel art, desde roguelikes hasta entregas de game jams. Godot 4.x como motor principal.
+**🎮 Godot development**
+Games and prototypes with a pixel art aesthetic, from roguelikes to game jam entries. Godot 4.x as the main engine.
 
 </td>
 <td width="50%">
 
-**🐍 Aplicaciones en Python**
-Herramientas y utilidades propias, desde scripts de automatización hasta apps con interfaz simple para uso personal.
+**🐍 Python applications**
+Tools and utilities, from automation scripts to apps with a simple interface for personal use.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🌐 Desarrollo web**
-Sitios y apps con HTML/JS/CSS, desde herramientas interactivas hasta portfolios propios.
+**🌐 Web development**
+Sites and apps with HTML/JS/CSS, from interactive tools to personal portfolios.
 
 </td>
 <td width="50%">
 
-**🧩 Extensiones de navegador**
-Extensiones chicas y funcionales para resolver necesidades puntuales del día a día.
+**🧩 Browser extensions**
+Small, functional extensions for solving day-to-day needs.
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ Extensiones chicas y funcionales para resolver necesidades puntuales del día a 
 <div align="center">
 
 ```
-> echo "gracias por pasar :: press START to continue"
+> echo "thanks for stopping by"
 ```
 
 </div>
