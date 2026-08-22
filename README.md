@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF2ECC&center=true&vCenter=true&width=560&lines=frajusu+%40+arch+hyprland;pixel+art+%2B+demoscene+%2B+godot;booting+creative_daemon...+%5BOK%5D" alt="typing-svg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF2ECC&center=true&vCenter=true&width=560&lines=frajusu+%40+arch+hyprland;pixel+art+%2B+coding+%2B+godot;booting+creative_daemon...+%5BOK%5D" alt="typing-svg" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### `> whoami`
 
-Self-taught dev and artist from Uruguay, studying at **UTEC**, building my way into game development and digital art without a formal degree in either, just work, curiosity, and jams. Into **demoscene** culture, **pixel art**, and ricing Linux until it's just right.
+Self-taught dev and artist from Uruguay, studying at **UTEC**, building my way into game development and digital art without a formal degree in either, just work, curiosity, and jams. Into **coding** culture, **pixel art**, and ricing Linux until it's just right.
 
 <br>
 
