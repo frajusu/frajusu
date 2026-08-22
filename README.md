@@ -68,7 +68,6 @@ Extensiones chicas y funcionales para resolver necesidades puntuales del día a 
 </tr>
 </table>
 
-> 💡 Si querés, agregá acá tus [pinned repositories](https://github.com/settings/pinned-items) reales para que queden clickeables con stars/lenguaje automáticos.
 
 <br>
 
