@@ -71,16 +71,6 @@ Small, functional extensions for solving day-to-day needs.
 
 <br>
 
-### `> stats`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frajusu&theme=synthwave&hide_border=true&background=1a1b27&ring=FF2ECC&fire=FFD400&currStreakLabel=00F0FF" height="165"/>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ```
