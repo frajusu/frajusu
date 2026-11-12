@@ -35,40 +35,6 @@ Self-taught dev and artist from Uruguay, studying at **UTEC**, building my way i
 
 <br>
 
-### `> areas of work`
-
-<table>
-<tr>
-<td width="50%">
-
-**🎮 Godot development**
-Games and prototypes with a pixel art aesthetic, from roguelikes to game jam entries. Godot 4.x as the main engine.
-
-</td>
-<td width="50%">
-
-**🐍 Python applications**
-Tools and utilities, from automation scripts to apps with a simple interface for personal use.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🌐 Web development**
-Sites and apps with HTML/JS/CSS, from interactive tools to personal portfolios.
-
-</td>
-<td width="50%">
-
-**🧩 Browser extensions**
-Small, functional extensions for solving day-to-day needs.
-
-</td>
-</tr>
-</table>
-
-
 <br>
 
 <div align="center">
